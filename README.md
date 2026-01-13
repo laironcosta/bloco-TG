@@ -4,8 +4,6 @@
 
 O **bloco-TG** é uma aplicação Python minimalista projetada para ambientes onde a discrição é fundamental. Ele imita perfeitamente a interface clássica do Bloco de Notas (Notepad), mas funciona como um cliente Telegram totalmente funcional.
 
-![Screenshot](screenshot.png) *(Adicione uma captura de tela aqui se desejar)*
-
 ## 🚀 Funcionalidades
 
 *   **Camuflagem Perfeita**: Interface idêntica ao Bloco de Notas. Título da janela muda para `*bloco-TG` apenas quando focado.
@@ -31,7 +29,7 @@ O **bloco-TG** é uma aplicação Python minimalista projetada para ambientes on
 
 1.  Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/bloco-TG.git
+    git clone https://github.com/laironcosta/bloco-TG.git
     cd bloco-TG
     ```
 
