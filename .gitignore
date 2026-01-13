@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# PyInstaller / Build
+build/
+dist/
+*.spec
+
+# Application Data (SENSITIVE)
+*.session
+*.session-journal
+config.ini
+downloads/
+debug.log
+
+# Logs
+*.log
